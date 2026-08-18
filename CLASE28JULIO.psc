@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo CLASE28JULIO
 	Definir nuevoNumero Como Entero
 	numeroNuevo = 7 
 	Escribir ' el numero nuevo es ', numeroNuevo
