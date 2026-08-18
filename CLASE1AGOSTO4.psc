@@ -1,4 +1,4 @@
-Algoritmo CLASEAGOSTO4
+Algoritmo CLASE1AGOSTO4
 	//crear un programa que solicite al usuario el ingreso de su nombre,
 	//obtener la longitud del valor ingresado y mostrarla
 	//despues multiplicar la longitud por el valor de pi y mostrar el resultado
