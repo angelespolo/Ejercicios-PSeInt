@@ -1,4 +1,4 @@
-Algoritmo CLASE16JULIO
+Algoritmo CLASE1JULIO16
 	// Crear un programa donde se solicite el ingreso de 2 valores numericos,
 	// multiplicar 10 veces el primer valor numerico por el segundo valor
 	// numerico ingresado, acumular el resultado de la multiplicacion en
