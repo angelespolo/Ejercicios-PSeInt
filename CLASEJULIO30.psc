@@ -1,12 +1,12 @@
-Algoritmo CLASEAGOSTO4
-	// crear un programa y solicite su nombre y año de nacimiento
+Algoritmo CLASEJULIO30
+	// crear un programa,solicite su nombre y aÃ±o de nacimiento
 	// imprimir el nombre ingresado y su edad 
 	Definir nombre como Caracter
 	Definir FechaNacimiento Como Entero
 	Definir edad Como Entero
 	Escribir 'le solicito su nombre'
 	Leer nombre
-	Escribir 'ahora le solicito su año de nacimiento'
+	Escribir 'ahora le solicito su aÃ±o de nacimiento'
 	Leer FechaNacimiento
 	edad = 2026 - FechaNacimiento
 	Escribir 'su edad es:', edad  ,  nombre
