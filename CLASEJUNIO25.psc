@@ -1,5 +1,5 @@
-Algoritmo CLASE25JUNIO
-	// Diseñar un programa que solicite al ingreso
+Algoritmo CLASEJUNIO25
+	// DiseÃ±ar un programa que solicite al ingreso
 	// de 2 valores numericos, luego compare si son iguales, en 
 	// caso de ser iguales informar con un mensaje o si son distintos
 	// tambien informar con un mensaje
