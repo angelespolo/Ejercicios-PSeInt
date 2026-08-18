@@ -1,6 +1,6 @@
-Algoritmo CLASEJUNIO30
+Algoritmo CLASE1JUNIO30
 	// 3) Operaciones multiples con Decision
-	// Diseñar un programa de flujo que lea dos numeros. Luego, debe preguntar 
+	// DiseÃ±ar un programa de flujo que lea dos numeros. Luego, debe preguntar 
 	// al usuario si desea sumarlos, restarlos, multiplicarlos o dividirlos.Basado 
 	// en la eleccion del usuario, el diagrama debe realizar la operacion 
 	// correspondiente y mostrar el resultado.
@@ -14,7 +14,7 @@ Algoritmo CLASEJUNIO30
 	Leer numero2
 	Escribir 'Gracias ahora elegi una opcion (1- sumar, 2- restar, 3- multiplicar, 4-Dividir)'
 	Leer opcionelegida
-	Según opcionelegida Hacer
+	SegÃºn opcionelegida Hacer
 		1:
 			resultado <- numero1+numero2
 			Escribir 'el resultado es:', resultado
@@ -29,5 +29,5 @@ Algoritmo CLASEJUNIO30
 			Escribir 'el resultado es:', resultado
 		De Otro Modo:
 			Escribir 'Te equivocaste la opcion no es valida, intenta nuevamente'
-	FinSegún
+	FinSegÃºn
 FinAlgoritmo
