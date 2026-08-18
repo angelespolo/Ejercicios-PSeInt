@@ -1,4 +1,5 @@
-Algoritmo CLASE13AGOSTO
+Algoritmo CLASE1AGOSTO13
+
 	// Realizar un programa de una calculadora 
 	// donde tendremos un menu de opciones
 	// !)Sumar 2)Restar 3)Multiplicar 4)Divirdir 
@@ -7,6 +8,8 @@ Algoritmo CLASE13AGOSTO
 	// el programa debe solicitar ingresar los valores numericos, realizar 
 	// la operacion e imprimir su resultado
 	// Luego volver a mostrar el menu de opciones 
+	//La carga finaliza con el valor de 0 (cero)
+
 	Definir opciones Como Entero
 	Definir num1 Como Real
 	Definir num2 Como Real
@@ -21,7 +24,7 @@ Algoritmo CLASE13AGOSTO
 		Escribir '0)Salir'
 		Escribir 'Ingrese la opcion'
 		Leer opciones
-		Según{expresio} Hacer
+		SegÃºn{expresio} Hacer
 			1:
 				// suma
 				Escribir 'Ingrese el primer valor'
@@ -56,6 +59,6 @@ Algoritmo CLASE13AGOSTO
 				Escribir 'El resultado de la division es:', resultado
 			5:
 				// Modulo
-		FinSegún
+		FinSegÃºn
 	Hasta Que opciones=0
 FinAlgoritmo
