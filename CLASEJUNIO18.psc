@@ -1,4 +1,4 @@
-Algoritmo CLASE18JUNIO
+Algoritmo CLASEJUNIO18
 	// Suma_Numeros
 	Definir numero1 como Entero
 	Definir numero2 como ENtero
