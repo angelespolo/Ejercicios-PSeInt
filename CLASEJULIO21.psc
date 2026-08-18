@@ -1,4 +1,5 @@
-Algoritmo CLASE21JULIO
+Algoritmo CLASEJULIO21
+
 	// Crear un proyecto que el usuario ingrese 3 valores,
 	// de los mismos informar cual es el mayory cual es el menor.
 	Definir N1 como Entero
